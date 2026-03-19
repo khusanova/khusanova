@@ -22,8 +22,8 @@ Before software development, I worked as an astrophysics researcher
 ([publications on ORCID](https://orcid.org/0000-0002-7220-397X)),
 writing Python pipelines for telescope data reduction, analysis
 and visualization. During my master's, I built a
-[data reduction package](https://github.com/JanaSuna/obs_sofi)
-for the SOFI camera using the Vera Rubin Observatory software stack.
+[data reduction package](https://github.com/khusanova/obs_sofi)
+for the SOFI camera using the LSST (now Vera Rubin Observatory) software stack.
 
 ## 🛠 Languages & Tools
 
