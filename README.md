@@ -18,12 +18,14 @@ I spent years working as an astrophysicist — writing code to reduce telescope 
 I'm currently a student at **[Masterschool](https://joinmsit.de/)** studying Software Engineering with a focus on **Python**. In addition, I am learning iOS development in **Swift** and **Computer Vision** (OpenCV).
 
 ## 🛸 Past Experience:
-Before software development, I worked as an astrophysics researcher
+**Astrophysics research:** Before software development, I worked as an astrophysics researcher
 ([publications on ORCID](https://orcid.org/0000-0002-7220-397X)),
 writing Python pipelines for telescope data reduction, analysis
-and visualization. During my master's, I built a
+and visualization.
+
+**Experience in python development:** During my master's, I built a
 [data reduction package](https://github.com/khusanova/obs_sofi)
-for the SOFI camera using the LSST (now Vera Rubin Observatory) software stack.
+for the SOFI camera using the LSST (now Vera Rubin Observatory) software stack. Throughout my PhD and PostDoc, I have written numerous python scripts and notebooks for data analysis, visualiasation and image processing.
 
 ## 🛠 Languages & Tools
 
