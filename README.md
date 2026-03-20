@@ -12,6 +12,7 @@ I spent years working as an astrophysicist — writing code to reduce telescope 
 
 ### Python
 - **[MaintenanceLog CLI](https://github.com/khusanova/MaintenanceLog/tree/main/python-prototype)** — A command-line prototype of my MaintenanceLog iOS app, and a playground for applying what I'm learning at Masterschool.
+- **[Minty Menu](https://github.com/khusanova/minty-menu)** - A simple customiziable menu for Linux Mint.
 
 ## 🌱 I’m currently learning:
 
