@@ -2,7 +2,7 @@
 
 Career changer: **Astrophysics → Software Development**
 
-I spent years working as an astrophysicist — writing code to reduce telescope data, analyze observations, and create interactive plots. Now I'm building the apps I always wanted to have.
+I spent years writing code to reduce telescope data, analyze observations, and create interactive plots. Now I'm building the apps I always wanted to have.
 
 ## 🔭 I’m currently working on:
 
