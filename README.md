@@ -4,16 +4,6 @@ Career changer: **Astrophysics → Software Development**
 
 I spent years writing code to reduce telescope data, analyze observations, and create interactive plots. Now I'm building the apps I always wanted to have.
 
-## 🔭 I’m currently working on:
-
-### iOS (Swift)
-- **[Knitty](https://github.com/khusanova/Knitty)** — An app for creating knitting patterns and counting rows.
-- **[MaintenanceLog](https://github.com/khusanova/MaintenanceLog)** — A spaceship-themed app to keep track of household chores.
-
-### Python
-- **[MaintenanceLog CLI](https://github.com/khusanova/MaintenanceLog/tree/main/python-prototype)** — A command-line prototype of my MaintenanceLog iOS app, and a playground for applying what I'm learning at Masterschool.
-- **[Minty Menu](https://github.com/khusanova/minty-menu)** - A simple customiziable menu for Linux Mint.
-
 ## 🌱 I’m currently learning:
 
 I'm currently a student at **[Masterschool](https://joinmsit.de/)** studying Software Engineering with a focus on **Python**. In addition, I am learning iOS development in **Swift** and **Computer Vision** (OpenCV).
