@@ -2,11 +2,11 @@
 
 Career changer: **Astrophysics → Software Development**
 
-I spent years writing code to reduce telescope data, analyze observations, and create interactive plots. Now I'm building the apps I always wanted to have.
+I spent years writing code to reduce telescope data, analyze observations, and create interactive plots. Now I'm building iOS and Web apps that I always wanted to have.
 
 ## 🌱 I’m currently learning:
 
-I'm currently a student at **[Masterschool](https://joinmsit.de/)** studying Software Engineering with a focus on **Python**. In addition, I am learning iOS development in **Swift** and **Computer Vision** (OpenCV).
+I'm currently a student at **[Masterschool](https://joinmsit.de/)** studying Software Engineering with a focus on **Python**. In addition, I am learning iOS development in **Swift**.
 
 ## 🛸 Past Experience:
 **Astrophysics research:** Before software development, I worked as an astrophysics researcher
